@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>CountryField</name>
+   <tag></tag>
+   <elementGuidId>2382487d-69c4-4109-96c4-05f7fd888d19</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>index</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>3cb41a5a-4f01-45ee-955e-9daeeaaf8488</webElementGuid>
+   </webElementProperties>
+   <locator>com.androidsample.generalstore:id/spinnerCountry</locator>
+   <locatorStrategy>ID</locatorStrategy>
+</MobileElementEntity>

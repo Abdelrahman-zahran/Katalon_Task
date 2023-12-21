@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- An automation script to help user getting started with Mobile automation testing.&#xd;
+- Script Content: Click &quot;START ALARM SERVICE&quot; and click &quot;STOP ALARM SERVICE&quot;, verify alert show is correct</description>
+   <name>Verify that product displayed in the cart after adding it in the cart</name>
+   <tag></tag>
+   <comment>Story: Verify correct alarm message&#xd;
+Given that user has started an application&#xd;
+And he navigates the application to Activity form&#xd;
+When he taps on the Custom Dialog button&#xd;
+Then the correct dialog message should be displayed</comment>
+   <testCaseGuid>7863351b-9de3-4c4f-823d-9497925136c3</testCaseGuid>
+</TestCaseEntity>
